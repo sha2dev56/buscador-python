@@ -1,0 +1,2 @@
+
+Para guardar datos usamos ficheros. JSON guarda listas y diccionarios como texto.

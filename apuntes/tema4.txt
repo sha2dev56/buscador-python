@@ -1,0 +1,2 @@
+
+Un entorno virtual aísla los paquetes. Un JSON mal escrito provoca un error.

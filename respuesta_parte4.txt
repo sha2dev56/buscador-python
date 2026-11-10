@@ -1,0 +1,1 @@
+El índice guarda las palabras exactas que aparecen en los apuntes. «enciende» y «arranca» son palabras distintas, así que buscar una no encuentra la otra. Para relacionarlas habría que añadir sinónimos o usar una búsqueda más avanzada.
